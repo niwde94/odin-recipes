@@ -1,0 +1,31 @@
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.standard {
+    font-size: 30px;
+    font-family: Arial, Helvetica,"Times New Roman";
+    font-weight: bold;
+    color: black;
+    width: 310px;
+    margin-left: 0 auto;
+}
+
+.egg-recipe {
+    background-color: rgb(245, 245, 158);
+}
+
+.bean-recipe {
+    background-color: greenyellow;
+}
+
+.dumpling-recipe {
+    background-color: burlywood;
+}
+
+img {
+    height:auto;
+    width: 310px;
+}
