@@ -1,16 +1,17 @@
 h1 {
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     text-align: center;
+    font-family: cursive;
 }
 
 .standard {
-    font-size: 30px;
+    font-size: 20px;
     font-family: Arial, Helvetica,"Times New Roman";
     font-weight: bold;
     color: black;
     width: 310px;
-    margin-left: 0 auto;
+    text-align: center;   
 }
 
 .egg-recipe {
@@ -19,6 +20,7 @@ h1 {
 
 .bean-recipe {
     background-color: greenyellow;
+    
 }
 
 .dumpling-recipe {
@@ -28,4 +30,17 @@ h1 {
 img {
     height:auto;
     width: 310px;
+    display:inline-block;
+}
+
+.parent1 {
+    display:inline-block;
+}
+
+.parent2 {
+    display:inline-block;
+}
+
+.parent3 {
+    display:inline-block;
 }
